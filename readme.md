@@ -1,4 +1,4 @@
-Esse projeto chamase:
+Esse projeto chama-se:
 #EOPE - Emprego Online Para Especiais.
 Ele é um requisito para o Trabalho de conclusão de curso, 
 Da Universidade Estaduas de Goias.
