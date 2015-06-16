@@ -12,12 +12,12 @@
          verbose="false">
     <testsuites>
         <testsuite name="PHPUnit">
-            <directory>tests/Ophportunidades</directory>
+            <directory>tests/EOPE</directory>
         </testsuite>
     </testsuites>
     <filter>
         <whitelist>
-            <directory>src/Ophportunidades</directory>
+            <directory>src/EOPE</directory>
         </whitelist>
     </filter>
 </phpunit>
