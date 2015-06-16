@@ -1,0 +1,17 @@
+{
+    "name": "andrefernandes/eope",
+    "description": "Empregos Online para Especiais",
+    "require": {
+        "twitter/bootstrap": ">=3.2"
+    },
+    "require-dev": {
+       "phpunit/phpunit" : ">=4"
+    },
+    "authors": [
+        {
+            "name": "André Fernandes Neves",
+            "email": "shumacer@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
